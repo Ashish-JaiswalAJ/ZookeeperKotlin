@@ -3,20 +3,20 @@ hyperskill_project:
   ide_files: https://hyperskill.org/api/projects/196/additional-files/additional_files.json
   is_template_based: true
   use_ide: true
-update_date: "Thu, 01 Jan 1970 00:00:00 UTC"
+update_date: "Thu, 24 Sep 2026 18:18:49 UTC"
 stages:
   - id: 975
     step: 14133
     is_completed: true
   - id: 976
     step: 14134
-    is_completed: false
+    is_completed: true
   - id: 977
     step: 14135
-    is_completed: false
+    is_completed: true
   - id: 978
     step: 14136
-    is_completed: false
+    is_completed: true
 topics:
   0:
     - title: Introduction to Kotlin

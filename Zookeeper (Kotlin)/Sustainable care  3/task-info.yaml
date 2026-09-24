@@ -5,7 +5,8 @@ files:
     visible: true
     learner_created: false
   - name: test/ZookeeperTest.kt
+    visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/projects/196/stages/978/implement#comment
-status: Unchecked
+status: Solved
 record: -1
